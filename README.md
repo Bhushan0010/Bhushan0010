@@ -5,7 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhushan0010" alt="bhushan0010" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/bhushan-chindarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://github.com/Bhushan0010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+</p>
+
+
 <p align="left">
 </p>
 
